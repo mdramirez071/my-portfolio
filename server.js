@@ -1,22 +1,57 @@
-// server.js
-// load the things we need
-var express = require('express');
-var app = express();
+const express = require('express');
+const morgan = require('morgan');
+const bodyParser = require('body-parser');
+const app = express();
 
-// set the view engine to ejs
+app.use(morgan('dev'))
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }))
+
+//this is for adding in bootstrap. 
+
+app.use(express.static('public'))
+//Here we need to setup the views directory for this project
+//this is to let the application where to find the actual files for our template
+app.set('views', './views');
+
+//Here we're setting the default engine to be ejs
+//nnote we don't need to require it,m express will do that
 app.set('view engine', 'ejs');
 
-// use res.render to load up an ejs view file
-
-// index page 
-app.get('/', function(req, res) {
-    res.render('pages/index');
+//Now instead of using red.send we can use
+//res.render to send the output of the template by using the actual filename called 'index
+app.get('/', (req,res) => {
+    const data = {
+        person: {
+            firstName: 'Michael',
+            lastName: 'Ramirez',
+        }
+    }
+    //Notice now the data is the second argument passed to the template render method
+    res.render('index', data);
 });
 
-// about page 
-app.get('/about', function(req, res) {
-    res.render('pages/about');
+// POST method route
+app.post('/', function (req, res) {
+    res.send('POST request to the homepage')
+  })
+  
+//GET method for contact route
+  app.get('/contact', (req, res) => {
+    res.render('contact');
+  });
+
+//POST method for thanks route
+  app.post('/thanks', (req, res) => {
+    res.render('thanks', { contact: req.body })
+  });
+
+  // Catch and handle everything else
+  app.get('*', function (req, res) {
+    res.send('Whoops, page not found 404').status(404);
+  })
+
+app.listen(8080, () => {
+    console.log('listening at http://localhost:8080');
 });
 
-app.listen(8080);
-console.log('8080 is the magic port');

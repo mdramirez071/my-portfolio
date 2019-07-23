@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <div>
+      <form name="submit-to-google-sheet">
+        <input name="email" type="email" placeholder="Email" required>
+        <input name="firstName" type="text" placeholder="First Name">
+        <input name="lastName" type="text" placeholder="Last Name">
+        <button className="btn-success" type="submit">Send</button>
+      </form>
+          <!-- The three scripts below are used for browser compatability -->
+          <script src="https://wzrd.in/standalone/formdata-polyfill"></script>
+          <script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+          <script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+          <script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycby74KbEIGSnUzdV37Bu47DoF1llFot2T1q929hVVKDRF-zNabjz/exec'
+            const form = document.forms['submit-to-google-sheet']
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => console.log('Success!', response))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+    </div>
+  </body>
+</html>
+
