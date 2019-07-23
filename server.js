@@ -36,19 +36,20 @@ app.post('/', function (req, res) {
     res.send('POST request to the homepage')
   })
   
-//GET method for contact route
-  app.get('/contact', (req, res) => {
-    res.render('contact');
-  });
+//Eliminated /contact and /thanks route since all information will be handled by the / route.
+// //GET method for contact route
+//   app.get('/contact', (req, res) => {
+//     res.render('contact');
+//   });
 
-//POST method for thanks route
-  app.post('/thanks', (req, res) => {
-    res.render('thanks', { contact: req.body })
-  });
+// //POST method for thanks route
+//   app.post('/thanks', (req, res) => {
+//     res.render('thanks', { contact: req.body })
+//   });
 
   // Catch and handle everything else
   app.get('*', function (req, res) {
-    res.send('Whoops, page not found 404').status(404);
+    res.send('Sorry, this page does not exist').status(404);
   })
 
 app.listen(8080, () => {
