@@ -35,6 +35,11 @@ app.get('/', (req,res) => {
 app.post('/', function (req, res) {
     res.send('POST request to the homepage')
   })
+
+  app.get('/favicon.ico', (req,res) => {
+    //Notice now the data is the second argument passed to the template render method
+    res.send('No favicon detected').status(200);
+});
   
 //Eliminated /contact and /thanks route since all information will be handled by the / route.
 // //GET method for contact route
