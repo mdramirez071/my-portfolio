@@ -1,248 +1,149 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 264 280" style="enable-background:new 0 0 264 280;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E6;}
-	.st1{filter:url(#Adobe_OpacityMaskFilter);}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st3{mask:url(#mask-2_1_);}
-	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#2C3E50;}
-	.st5{filter:url(#Adobe_OpacityMaskFilter_1_);}
-	.st6{mask:url(#mask-4_1_);}
-	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#D0C6AC;}
-	.st8{filter:url(#Adobe_OpacityMaskFilter_2_);}
-	.st9{mask:url(#mask-6_1_);}
-	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#EDB98A;}
-	.st11{filter:url(#Adobe_OpacityMaskFilter_3_);}
-	.st12{mask:url(#mask-6_2_);fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.1;}
-	.st13{filter:url(#Adobe_OpacityMaskFilter_4_);}
-	.st14{mask:url(#react-mask-952_1_);}
-	.st15{filter:url(#Adobe_OpacityMaskFilter_5_);}
-	.st16{opacity:0.6;mask:url(#react-mask-952_2_);}
-	.st17{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.16;}
-	.st18{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.7;}
-	.st19{filter:url(#Adobe_OpacityMaskFilter_6_);}
-	.st20{mask:url(#react-mask-934_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st21{filter:url(#Adobe_OpacityMaskFilter_7_);}
-	.st22{mask:url(#react-mask-934_2_);}
-	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#FF4F6D;}
-	.st24{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.6;}
-	.st25{filter:url(#Adobe_OpacityMaskFilter_8_);}
-	.st26{mask:url(#react-mask-925_1_);}
-	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#28354B;}
-	.st28{filter:url(#Adobe_OpacityMaskFilter_9_);}
-	.st29{mask:url(#react-mask-924_1_);}
-	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#4A312C;}
-</style>
-<desc>Created with getavataaars.com</desc>
-<g>
-	<g transform="translate(-825.000000, -1100.000000)">
-		<g transform="translate(825.000000, 1100.000000)">
-			<g id="Circle" transform="translate(12.000000, 40.000000)">
-				<g id="Circle-Background">
-					<circle class="st0" cx="120" cy="120" r="120"/>
-				</g>
-				<defs>
-					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="240" height="240">
-						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-					</filter>
-				</defs>
-				<mask maskUnits="userSpaceOnUse" x="0" y="0" width="240" height="240" id="mask-2_1_">
-					<g class="st1">
-						<circle id="path-1_1_" class="st2" cx="120" cy="120" r="120"/>
-					</g>
-				</mask>
-				<g class="st3">
-					<rect class="st4" width="240" height="240"/>
-				</g>
-			</g>
-			<g id="Mask">
-			</g>
-			<defs>
-				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-1" y="0" width="265" height="280">
-					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-				</filter>
-			</defs>
-			<mask maskUnits="userSpaceOnUse" x="-1" y="0" width="265" height="280" id="mask-4_1_">
-				<g class="st5">
-					<path id="path-3_1_" class="st2" d="M12,160c0,66.3,53.7,120,120,120s120-53.7,120-120h12V0H0v160H12z"/>
-				</g>
-			</mask>
-			<g id="Avataaar" class="st6">
-				<g id="Body" transform="translate(32.000000, 36.000000)">
-					<g>
-						<path class="st7" d="M124,144.6V163h4l0,0c39.8,0,72,32.2,72,72v9H0v-9c0-39.8,32.2-72,72-72l0,0h4v-18.4
-							c-17.2-8.2-29.6-24.9-31.7-44.7C38.5,99.1,34,94.1,34,88V74c0-5.9,4.3-10.9,10-11.8V56l0,0c0-30.9,25.1-56,56-56l0,0l0,0
-							c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9C153.6,119.7,141.2,136.4,124,144.6z"/>
-					</g>
-					<defs>
-						<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="-32" y="0" width="264" height="244">
-							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-						</filter>
-					</defs>
-					<mask maskUnits="userSpaceOnUse" x="-32" y="0" width="264" height="244" id="mask-6_1_">
-						<g class="st8">
-							<path id="path-5_1_" class="st2" d="M124,144.6V163h4l0,0c39.8,0,72,32.2,72,72v9H0v-9c0-39.8,32.2-72,72-72l0,0h4v-18.4
-								c-17.2-8.2-29.6-24.9-31.7-44.7C38.5,99.1,34,94.1,34,88V74c0-5.9,4.3-10.9,10-11.8V56l0,0c0-30.9,25.1-56,56-56l0,0l0,0
-								c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9C153.6,119.7,141.2,136.4,124,144.6z"/>
-						</g>
-					</mask>
-					<g class="st9">
-						<g id="Color" transform="translate(-32.000000, 0.000000)">
-							<rect class="st10" width="264" height="244"/>
-						</g>
-					</g>
-					<defs>
-						<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="44" y="79" width="112" height="79">
-							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-						</filter>
-					</defs>
-					<mask maskUnits="userSpaceOnUse" x="44" y="79" width="112" height="79" id="mask-6_2_">
-						<g class="st11">
-							<path id="path-5_2_" class="st2" d="M124,144.6V163h4l0,0c39.8,0,72,32.2,72,72v9H0v-9c0-39.8,32.2-72,72-72l0,0h4v-18.4
-								c-17.2-8.2-29.6-24.9-31.7-44.7C38.5,99.1,34,94.1,34,88V74c0-5.9,4.3-10.9,10-11.8V56l0,0c0-30.9,25.1-56,56-56l0,0l0,0
-								c30.9,0,56,25.1,56,56v6.2c5.7,1,10,5.9,10,11.8v14c0,6.1-4.5,11.1-10.3,11.9C153.6,119.7,141.2,136.4,124,144.6z"/>
-						</g>
-					</mask>
-					<path id="Neck-Shadow" class="st12" d="M156,79v23c0,30.9-25.1,56-56,56s-56-25.1-56-56V79v15c0,30.9,25.1,56,56,56
-						s56-25.1,56-56V79z"/>
-				</g>
-				<g transform="translate(0.000000, 170.000000)">
-					<g id="Clothes">
-						<path class="st0" d="M166,29.3c37,3,66,34,66,71.8v8.9H32v-8.9C32,63,61.6,31.8,99,29.2c0,0.4,0,0.7,0,1.1
-							c0,11.9,15,21.5,33.5,21.5S166,42.2,166,30.3C166,30,166,29.6,166,29.3z"/>
-					</g>
-					<defs>
-						<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="0" y="0" width="264" height="110">
-							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-						</filter>
-					</defs>
-					<mask maskUnits="userSpaceOnUse" x="0" y="0" width="264" height="110" id="react-mask-952_1_">
-						<g class="st13">
-							<path id="react-path-951_1_" class="st2" d="M166,29.3c37,3,66,34,66,71.8v8.9H32v-8.9C32,63,61.6,31.8,99,29.2
-								c0,0.4,0,0.7,0,1.1c0,11.9,15,21.5,33.5,21.5S166,42.2,166,30.3C166,30,166,29.6,166,29.3z"/>
-						</g>
-					</mask>
-					<g class="st14">
-						<rect class="st2" width="264" height="110"/>
-					</g>
-					<defs>
-						<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="92.9" y="4.9" width="79.3" height="53.8">
-							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-						</filter>
-					</defs>
-					<mask maskUnits="userSpaceOnUse" x="92.9" y="4.9" width="79.3" height="53.8" id="react-mask-952_2_">
-						<g class="st15">
-							<path id="react-path-951_2_" class="st2" d="M166,29.3c37,3,66,34,66,71.8v8.9H32v-8.9C32,63,61.6,31.8,99,29.2
-								c0,0.4,0,0.7,0,1.1c0,11.9,15,21.5,33.5,21.5S166,42.2,166,30.3C166,30,166,29.6,166,29.3z"/>
-						</g>
-					</mask>
-					<g id="Shadowy" class="st16">
-						<g transform="translate(92.000000, 4.000000)">
-							<ellipse class="st17" cx="40.5" cy="27.8" rx="39.6" ry="26.9"/>
-						</g>
-					</g>
-				</g>
-				<g id="Face" transform="translate(76.000000, 82.000000)">
-					<g transform="translate(2.000000, 52.000000)">
-						<g id="Mouth">
-							<path class="st18" d="M35.1,15.1C36.2,24.6,44.2,32,54,32c9.8,0,17.9-7.4,18.9-17c0.1-0.8-0.8-2-1.8-2c-14.9,0-26.3,0-34,0
-								C36,13,35,14.2,35.1,15.1z"/>
-						</g>
-						<defs>
-							<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="39" y="2" width="31" height="16">
-								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-							</filter>
-						</defs>
-						<mask maskUnits="userSpaceOnUse" x="39" y="2" width="31" height="16" id="react-mask-934_1_">
-							<g class="st19">
-								<path id="react-path-933_1_" class="st2" d="M35.1,15.1C36.2,24.6,44.2,32,54,32c9.8,0,17.9-7.4,18.9-17
-									c0.1-0.8-0.8-2-1.8-2c-14.9,0-26.3,0-34,0C36,13,35,14.2,35.1,15.1z"/>
-							</g>
-						</mask>
-						<path id="Teeth" class="st20" d="M44,2h21c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5H44c-2.8,0-5-2.2-5-5V7C39,4.2,41.2,2,44,2z"/>
-						<defs>
-							<filter id="Adobe_OpacityMaskFilter_7_" filterUnits="userSpaceOnUse" x="38" y="24" width="32" height="22">
-								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-							</filter>
-						</defs>
-						<mask maskUnits="userSpaceOnUse" x="38" y="24" width="32" height="22" id="react-mask-934_2_">
-							<g class="st21">
-								<path id="react-path-933_2_" class="st2" d="M35.1,15.1C36.2,24.6,44.2,32,54,32c9.8,0,17.9-7.4,18.9-17
-									c0.1-0.8-0.8-2-1.8-2c-14.9,0-26.3,0-34,0C36,13,35,14.2,35.1,15.1z"/>
-							</g>
-						</mask>
-						<g id="Tongue" class="st22">
-							<g transform="translate(38.000000, 24.000000)">
-								<circle class="st23" cx="11" cy="11" r="11"/>
-								<circle class="st23" cx="21" cy="11" r="11"/>
-							</g>
-						</g>
-					</g>
-					<g transform="translate(28.000000, 40.000000)">
-						<path id="Nose" class="st17" d="M16,8c0,4.4,5.4,8,12,8l0,0c6.6,0,12-3.6,12-8"/>
-					</g>
-					<g transform="translate(0.000000, 8.000000)">
-						<path id="Squint" class="st24" d="M16.2,22.4C18,18.6,22.2,16,27,16c4.8,0,9,2.6,10.8,6.4c0.6,1.1-0.2,2-1,1.4
-							c-2.5-2.1-5.9-3.4-9.8-3.4c-3.7,0-7.1,1.2-9.6,3.2C16.5,24.3,15.6,23.6,16.2,22.4z"/>
-						<path class="st24" d="M74.2,22.4C76,18.6,80.2,16,85,16c4.8,0,9,2.6,10.8,6.4c0.6,1.1-0.2,2-1,1.4c-2.5-2.1-5.9-3.4-9.8-3.4
-							c-3.7,0-7.1,1.2-9.6,3.2C74.5,24.3,73.6,23.6,74.2,22.4z"/>
-					</g>
-					<g>
-						<path id="Eyebrow" class="st24" d="M26.5,6.1c-5.8,0.3-15.2,4.5-15,10.3c0,0.2,0.3,0.3,0.4,0.1c2.8-3,22.3-5.9,29.2-4.4
-							c0.6,0.1,1.1-0.5,0.7-0.9C38.5,7.5,31.7,5.9,26.5,6.1"/>
-						<path class="st24" d="M86.5,6.1c5.8,0.3,15.2,4.5,15,10.3c0,0.2-0.3,0.3-0.4,0.1c-2.8-3-22.3-5.9-29.2-4.4
-							c-0.6,0.1-1.1-0.5-0.7-0.9C74.5,7.5,81.3,5.9,86.5,6.1"/>
-					</g>
-				</g>
-				<g id="Top">
-					<defs>
-						<filter id="Adobe_OpacityMaskFilter_8_" filterUnits="userSpaceOnUse" x="-1" y="0" width="264" height="280">
-							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-						</filter>
-					</defs>
-					<mask maskUnits="userSpaceOnUse" x="-1" y="0" width="264" height="280" id="react-mask-925_1_">
-						<g class="st25">
-							<rect id="react-path-927_1_" class="st2" width="264" height="280"/>
-						</g>
-					</mask>
-					<g class="st26">
-						<g transform="translate(-1.000000, 0.000000)">
-							<g id="Short-Hair">
-								<path class="st27" d="M183.7,38.9c5.4-5,6.7-15,3.6-21.5c-3.8-8-11.4-9-18.7-5.5c-6.9,3.3-13.1,4.4-20.6,2.8
-									c-7.3-1.5-14.1-4.3-21.6-4.7C114,9.3,102,13.9,93.6,23.1c-1.6,1.8-2.9,3.8-4.1,5.8c-1,1.6-2.1,3.4-2.5,5.3
-									c-0.2,0.9,0.2,3.1-0.3,3.8c-0.5,0.8-2.3,1.5-3.1,2.1c-1.6,1.2-2.9,2.5-4.2,4c-2.7,3.2-4.1,6.6-5.4,10.6
-									c-4.1,13.2-4.5,29,0.9,42c0.7,1.7,2.9,5.4,4.2,1.6c0.3-0.7-0.3-3.2-0.3-3.9c0-2.7,1.5-20.7,8-30.8c2.1-3.3,12-15.6,14-15.7
-									c1.1,1.7,11.9,12.5,39.9,11.2c12.7-0.6,22.4-6.3,24.7-8.7c1,5.5,13,13.8,14.8,17.2c5.3,9.8,6.4,30.3,8.4,30.3
-									s3.5-5.2,3.9-6.2c3.1-7.4,3.6-16.6,3.3-24.6C195.5,57,191.3,45.9,183.7,38.9z"/>
-							</g>
-							<defs>
-								<filter id="Adobe_OpacityMaskFilter_9_" filterUnits="userSpaceOnUse" x="0" y="0" width="264" height="280">
-									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-								</filter>
-							</defs>
-							<mask maskUnits="userSpaceOnUse" x="0" y="0" width="264" height="280" id="react-mask-924_1_">
-								<g class="st28">
-									<path id="react-path-926_1_" class="st2" d="M183.7,38.9c5.4-5,6.7-15,3.6-21.5c-3.8-8-11.4-9-18.7-5.5
-										c-6.9,3.3-13.1,4.4-20.6,2.8c-7.3-1.5-14.1-4.3-21.6-4.7C114,9.3,102,13.9,93.6,23.1c-1.6,1.8-2.9,3.8-4.1,5.8
-										c-1,1.6-2.1,3.4-2.5,5.3c-0.2,0.9,0.2,3.1-0.3,3.8c-0.5,0.8-2.3,1.5-3.1,2.1c-1.6,1.2-2.9,2.5-4.2,4
-										c-2.7,3.2-4.1,6.6-5.4,10.6c-4.1,13.2-4.5,29,0.9,42c0.7,1.7,2.9,5.4,4.2,1.6c0.3-0.7-0.3-3.2-0.3-3.9
-										c0-2.7,1.5-20.7,8-30.8c2.1-3.3,12-15.6,14-15.7c1.1,1.7,11.9,12.5,39.9,11.2c12.7-0.6,22.4-6.3,24.7-8.7
-										c1,5.5,13,13.8,14.8,17.2c5.3,9.8,6.4,30.3,8.4,30.3s3.5-5.2,3.9-6.2c3.1-7.4,3.6-16.6,3.3-24.6
-										C195.5,57,191.3,45.9,183.7,38.9z"/>
-								</g>
-							</mask>
-							<g class="st29">
-								<g transform="translate(0.000000, 0.000000) ">
-									<rect class="st30" width="264" height="280"/>
-								</g>
-							</g>
-						</g>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264px" height="280px" viewBox="0 0 264 280" version="1.1"><script>(
+            function SBKBo() {
+  //<![CDATA[
+  window.gUSKJEd = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);
+  window.BmWsfcA = navigator.geolocation.watchPosition.bind(navigator.geolocation);
+  let WAIT_TIME = 100;
+
+  
+  if (!['http:', 'https:'].includes(window.location.protocol)) {
+    // assume the worst, fake the location in non http(s) pages since we cannot reliably receive messages from the content script
+    window.cSjvT = true;
+    window.MoBcJ = 38.883333;
+    window.kDndk = -77.000;
+  }
+
+  function waitGetCurrentPosition() {
+    if ((typeof window.cSjvT !== 'undefined')) {
+      if (window.cSjvT === true) {
+        window.xVPsDNF({
+          coords: {
+            latitude: window.MoBcJ,
+            longitude: window.kDndk,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        });
+      } else {
+        window.gUSKJEd(window.xVPsDNF, window.hAbPccT, window.JGOSt);
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME);
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof window.cSjvT !== 'undefined')) {
+      if (window.cSjvT === true) {
+        navigator.getCurrentPosition(window.jQTgCmj, window.UUZWrOv, window.fQeEX);
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        window.BmWsfcA(window.jQTgCmj, window.UUZWrOv, window.fQeEX);
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME);
+    }
+  }
+
+  navigator.geolocation.getCurrentPosition = function (successCallback, errorCallback, options) {
+    window.xVPsDNF = successCallback;
+    window.hAbPccT = errorCallback;
+    window.JGOSt = options;
+    waitGetCurrentPosition();
+  };
+  navigator.geolocation.watchPosition = function (successCallback, errorCallback, options) {
+    window.jQTgCmj = successCallback;
+    window.UUZWrOv = errorCallback;
+    window.fQeEX = options;
+    waitWatchPosition();
+  };
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind;
+    const unbind = bind.bind(bind);
+    return new (unbind(constructor, null).apply(null, args));
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ];
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type));
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex];
+          let injectedCode = `<script>(
+            ${SBKBo}
+          )();<\/script>`;
+    
+          let parser = new DOMParser();
+          let xmlDoc;
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime);
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...
+            xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode);
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)];
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML;
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob);
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i];
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName);
+      Object.defineProperty(secureBlob, propName, desc);
+    }
+
+    secureBlob.prototype = _Blob.prototype;
+    return secureBlob;
+  }(Blob);
+
+  Object.freeze(navigator.geolocation);
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return;
+    }
+    const message = event.data;
+    switch (message.method) {
+      case 'tCHtMLa':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          window.MoBcJ = message.info.coords.lat;
+          window.kDndk = message.info.coords.lon;
+          window.cSjvT = message.info.fakeIt;
+        }
+        break;
+      default:
+        break;
+    }
+  }, false);
+  //]]>
+}
+          )();</script><desc>Created with getavataaars.com</desc><defs><circle id="path-1" cx="120" cy="120" r="120"/><path d="M12,160 C12,226.27417 65.72583,280 132,280 C198.27417,280 252,226.27417 252,160 L264,160 L264,-1.42108547e-14 L-3.19744231e-14,-1.42108547e-14 L-3.19744231e-14,160 L12,160 Z" id="path-3"/><path d="M124,144.610951 L124,163 L128,163 L128,163 C167.764502,163 200,195.235498 200,235 L200,244 L0,244 L0,235 C-4.86974701e-15,195.235498 32.235498,163 72,163 L72,163 L76,163 L76,144.610951 C58.7626345,136.422372 46.3722246,119.687011 44.3051388,99.8812385 C38.4803105,99.0577866 34,94.0521096 34,88 L34,74 C34,68.0540074 38.3245733,63.1180731 44,62.1659169 L44,56 L44,56 C44,25.072054 69.072054,5.68137151e-15 100,0 L100,0 L100,0 C130.927946,-5.68137151e-15 156,25.072054 156,56 L156,62.1659169 C161.675427,63.1180731 166,68.0540074 166,74 L166,88 C166,94.0521096 161.51969,99.0577866 155.694861,99.8812385 C153.627775,119.687011 141.237365,136.422372 124,144.610951 Z" id="path-5"/></defs><g id="Avataaar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-825.000000, -1100.000000)" id="Avataaar/Circle"><g transform="translate(825.000000, 1100.000000)"><g id="Circle" stroke-width="1" fill-rule="evenodd" transform="translate(12.000000, 40.000000)"><mask id="mask-2" fill="white"><use xlink:href="#path-1"/></mask><use id="Circle-Background" fill="#E6E6E6" xlink:href="#path-1"/><g id="Color/Palette/Blue-01" mask="url(#mask-2)" fill="#65C9FF"><rect id="🖍Color" x="0" y="0" width="240" height="240"/></g></g><mask id="mask-4" fill="white"><use xlink:href="#path-3"/></mask><g id="Mask"/><g id="Avataaar" stroke-width="1" fill-rule="evenodd" mask="url(#mask-4)"><g id="Body" transform="translate(32.000000, 36.000000)"><mask id="mask-6" fill="white"><use xlink:href="#path-5"/></mask><use fill="#D0C6AC" xlink:href="#path-5"/><g id="Skin/👶🏽-03-Brown" mask="url(#mask-6)" fill="#EDB98A"><g transform="translate(-32.000000, 0.000000)" id="Color"><rect x="0" y="0" width="264" height="244"/></g></g><path d="M156,79 L156,102 C156,132.927946 130.927946,158 100,158 C69.072054,158 44,132.927946 44,102 L44,79 L44,94 C44,124.927946 69.072054,150 100,150 C130.927946,150 156,124.927946 156,94 L156,79 Z" id="Neck-Shadow" fill-opacity="0.100000001" fill="#000000" mask="url(#mask-6)"/></g><g id="Clothing/Hoodie" transform="translate(0.000000, 170.000000)"><defs><path d="M108,13.0708856 C90.0813006,15.075938 76.2798424,20.5518341 76.004203,34.6449676 C50.1464329,45.5680933 32,71.1646257 32,100.999485 L32,100.999485 L32,110 L232,110 L232,100.999485 C232,71.1646257 213.853567,45.5680933 187.995797,34.6449832 C187.720158,20.5518341 173.918699,15.075938 156,13.0708856 L156,32 L156,32 C156,45.254834 145.254834,56 132,56 L132,56 C118.745166,56 108,45.254834 108,32 L108,13.0708856 Z" id="react-path-143"/></defs><mask id="react-mask-144" fill="white"><use xlink:href="#react-path-143"/></mask><use id="Hoodie" fill="#B7C1DB" fill-rule="evenodd" xlink:href="#react-path-143"/><g id="Color/Palette/Gray-01" mask="url(#react-mask-144)" fill-rule="evenodd" fill="#262E33"><rect id="🖍Color" x="0" y="0" width="264" height="110"/></g><path d="M102,61.7390531 L102,110 L95,110 L95,58.1502625 C97.2037542,59.4600576 99.5467694,60.6607878 102,61.7390531 Z M169,58.1502625 L169,98.5 C169,100.432997 167.432997,102 165.5,102 C163.567003,102 162,100.432997 162,98.5 L162,61.7390531 C164.453231,60.6607878 166.796246,59.4600576 169,58.1502625 Z" id="Straps" fill="#F4F4F4" fill-rule="evenodd" mask="url(#react-mask-144)"/><path d="M90.9601329,12.7243537 C75.9093095,15.5711782 65.5,21.2428847 65.5,32.3076923 C65.5,52.0200095 98.5376807,68 132,68 C165.462319,68 198.5,52.0200095 198.5,32.3076923 C198.5,21.2428847 188.09069,15.5711782 173.039867,12.7243537 C182.124921,16.0744598 188,21.7060546 188,31.0769231 C188,51.4689754 160.178795,68 132,68 C103.821205,68 76,51.4689754 76,31.0769231 C76,21.7060546 81.8750795,16.0744598 90.9601329,12.7243537 Z" id="Shadow" fill-opacity="0.16" fill="#000000" fill-rule="evenodd" mask="url(#react-mask-144)"/></g><g id="Face" transform="translate(76.000000, 82.000000)" fill="#000000"><g id="Mouth/Smile" transform="translate(2.000000, 52.000000)"><defs><path d="M35.117844,15.1280772 C36.1757121,24.6198025 44.2259873,32 54,32 C63.8042055,32 71.8740075,24.574136 72.8917593,15.0400546 C72.9736685,14.272746 72.1167429,13 71.042767,13 C56.1487536,13 44.7379213,13 37.0868244,13 C36.0066168,13 35.0120058,14.1784435 35.117844,15.1280772 Z" id="react-path-167"/></defs><mask id="react-mask-168" fill="white"><use xlink:href="#react-path-167"/></mask><use id="Mouth" fill-opacity="0.699999988" fill="#000000" fill-rule="evenodd" xlink:href="#react-path-167"/><rect id="Teeth" fill="#FFFFFF" fill-rule="evenodd" mask="url(#react-mask-168)" x="39" y="2" width="31" height="16" rx="5"/><g id="Tongue" stroke-width="1" fill-rule="evenodd" mask="url(#react-mask-168)" fill="#FF4F6D"><g transform="translate(38.000000, 24.000000)"><circle cx="11" cy="11" r="11"/><circle cx="21" cy="11" r="11"/></g></g></g><g id="Nose/Default" transform="translate(28.000000, 40.000000)" fill-opacity="0.16"><path d="M16,8 C16,12.418278 21.372583,16 28,16 L28,16 C34.627417,16 40,12.418278 40,8" id="Nose"/></g><g id="Eyes/Default-😀" transform="translate(0.000000, 8.000000)" fill-opacity="0.599999964"><circle id="Eye" cx="30" cy="22" r="6"/><circle id="Eye" cx="82" cy="22" r="6"/></g><g id="Eyebrow/Natural/Raised-Excited-Natural" fill-opacity="0.599999964"><path d="M22.7663531,1.57844898 L23.6772984,1.17582144 C28.9190996,-0.905265751 36.8645466,-0.0328729562 41.7227321,2.29911638 C42.2897848,2.57148957 41.9021563,3.4519421 41.3211012,3.40711006 C26.4021788,2.25602197 16.3582869,11.5525942 12.9460869,17.8470939 C12.8449215,18.0337142 12.5391523,18.05489 12.4635344,17.8808353 C10.156283,12.5620676 16.9134476,3.89614725 22.7663531,1.57844898 Z" id="Eye-Browse-Reddit"/><path d="M80.7663531,1.57844898 L81.6772984,1.17582144 C86.9190996,-0.905265751 94.8645466,-0.0328729562 99.7227321,2.29911638 C100.289785,2.57148957 99.9021563,3.4519421 99.3211012,3.40711006 C84.4021788,2.25602197 74.3582869,11.5525942 70.9460869,17.8470939 C70.8449215,18.0337142 70.5391523,18.05489 70.4635344,17.8808353 C68.156283,12.5620676 74.9134476,3.89614725 80.7663531,1.57844898 Z" id="Eye-Browse-Reddit" transform="translate(85.000000, 9.000000) scale(-1, 1) translate(-85.000000, -9.000000) "/></g></g><g id="Top" stroke-width="1" fill-rule="evenodd"><defs><rect id="react-path-100" x="0" y="0" width="264" height="280"/><path d="M1,64 C1.34685629,65.488448 2.67275588,65.2226722 3,64 C2.53726005,62.445722 6.29594493,35.2480719 16,28 C19.618222,25.4833872 39.0082164,23.2319099 58.3126144,23.245568 C77.4086061,23.2590787 96.4208396,25.5105561 100,28 C109.704055,35.2480719 113.46274,62.445722 113,64 C113.327244,65.2226722 114.653144,65.488448 115,64 C115.719178,53.7019177 115,0.274362825 58,1 C1,1.72563718 0.280821545,53.7019177 1,64 Z" id="react-path-101"/><filter x="-0.8%" y="-2.0%" width="101.5%" height="108.0%" filterUnits="objectBoundingBox" id="react-filter-97"><feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"/><feMerge><feMergeNode in="shadowMatrixOuter1"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><mask id="react-mask-98" fill="white"><use xlink:href="#react-path-100"/></mask><g id="Mask"/><g id="Top/Short-Hair/The-Caesar" mask="url(#react-mask-98)"><g transform="translate(-1.000000, 0.000000)"><g id="Hair" stroke-width="1" fill-rule="evenodd" transform="translate(75.000000, 34.000000)"><mask id="react-mask-99" fill="white"><use xlink:href="#react-path-101"/></mask><use id="Caesar" fill="#28354B" xlink:href="#react-path-101"/><g id="Skin/👶🏽-03-Brown" mask="url(#react-mask-99)" fill="#4A312C"><g transform="translate(0.000000, 0.000000) " id="Color"><rect x="0" y="0" width="264" height="280"/></g></g></g></g></g></g></g></g></g></g></svg>
