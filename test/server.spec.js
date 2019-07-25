@@ -4,7 +4,7 @@ const expect = chai.expect;
 
 chai.use(chaiHttp);
 
-const app = require('/Users/admin/projects/my-portfolio/server.js');
+//const app = require('/Users/admin/projects/my-portfolio/server.js');
 
 describe("server module", function() {
   this.timeout(6500);
