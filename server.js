@@ -56,7 +56,7 @@ app.post('/', function (req, res) {
   app.get('*', function (req, res) {
     res.send('Sorry, this page does not exist').status(404);
   })
-
-app.listen(8080, () => {
+var port = process.env.PORT || 8080;
+app.listen(port, "0.0.0.0", () => {
     console.log('listening at http://localhost:8080');
 });
