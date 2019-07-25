@@ -1,7 +1,13 @@
 const express = require('express');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
+const axios = require('axios');
+const dotenv = require('dotenv');
+
+
+dotenv.config();
 const app = express();
+
 
 app.use(morgan('dev'))
 app.use(bodyParser.json())
@@ -42,15 +48,45 @@ app.post('/', function (req, res) {
 });
   
 //Eliminated /contact and /thanks route since all information will be handled by the / route.
-// //GET method for contact route
-//   app.get('/contact', (req, res) => {
-//     res.render('contact');
-//   });
+//GET method for contact route
+  // app.get('/contact', (req, res) => {
+  //   res.render('contact');
+  // });
 
-// //POST method for thanks route
-//   app.post('/thanks', (req, res) => {
-//     res.render('thanks', { contact: req.body })
-//   });
+  // //TEST GET method for thanks route
+  // app.get('/thanks', (req, res) => {
+  //   res.render('thanks', { contact: req.body })
+  // });
+
+
+//POST method for thanks route
+  app.post('/thanks', (req, res) => {
+    res.render('thanks', { contact: req.body })
+    const { firstName, lastName, email } = req.body;
+  
+    //sends form data to Google Sheets
+    let formData =
+      'firstName=' + encodeURIComponent(firstName) +
+      '&lastName=' + encodeURIComponent(lastName) +
+      '&email=' + encodeURIComponent(email)
+    //   '&subject=' + encodeURIComponent(subject) +
+    //   '&message=' + encodeURIComponent(message);
+  
+    const scriptURL = process.env.SCRIPT_URL.toString();
+  
+    axios({
+        method: 'post',
+        url: scriptURL,
+        data: formData
+      })
+      .catch(error => console.error('Error!', error.message));
+  
+    //thanks the contact by name
+    const contact = { firstName, lastName };
+    console.log(contact);
+  
+    res.render('thanks', { contact });
+  });
 
   // Catch and handle everything else
   app.get('*', function (req, res) {
