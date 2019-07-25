@@ -12,7 +12,7 @@
     "nightmare": "^3.0.2"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server/server.js",
     "test": "mocha test/*.spec.js --exit"
   },
   "description": "Content coming soon....",
