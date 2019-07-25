@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "mocha test/**/*.spec.js --exit"
+    "test": "mocha test/*.spec.js --exit"
   },
   "description": "Content coming soon....",
   "version": "1.0.0",
