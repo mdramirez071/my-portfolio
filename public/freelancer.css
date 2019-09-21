@@ -10875,6 +10875,9 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-.contact-form { 
-  margin: 0 auto; 
-};
+#contact-form {
+  position:fixed;
+  top:50%;
+  left:50%;
+  width:250px;
+}
